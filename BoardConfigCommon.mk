@@ -25,7 +25,6 @@ TARGET_USE_QCOM_BIONIC_OPTIMIZATION := true
 
 # Audio
 BOARD_USES_ALSA_AUDIO := true
-TARGET_QCOM_AUDIO_VARIANT := caf
 TARGET_USES_QCOM_COMPRESSED_AUDIO := true
 
 # Bluetooth
@@ -38,7 +37,6 @@ BOARD_CHARGING_CMDLINE_VALUE := "true"
 
 # Display
 BOARD_EGL_CFG := device/samsung/msm8974-common/configs/egl.cfg
-TARGET_QCOM_DISPLAY_VARIANT := caf-new
 NUM_FRAMEBUFFER_SURFACE_BUFFERS := 3
 OVERRIDE_RS_DRIVER:= libRSDriver_adreno.so
 
