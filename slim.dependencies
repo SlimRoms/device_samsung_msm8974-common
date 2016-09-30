@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  }
+]
